@@ -9,7 +9,7 @@ Aprenderán a agregar dependencias en Android Studio. En este caso investigarán
 
 En su proyecto, en el archivo `activity_main.xml`, usando `RelativeLayout` o `LinearLayout`, colocarán una interfaz similar a la siguiente:
 
-![ImagenEjemplo](img/01.png)
+![ImagenEjemplo](img/03.png)
 
 Al dar click al botón animar, la imagen debe realizar alguna animación. Investigar cómo hacer esto con **Android View Animations**.
 
